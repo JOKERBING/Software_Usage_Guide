@@ -87,7 +87,7 @@ Gerber（光绘）文件是一种符合EIA标准、用于驱动光绘机的文�
 
 至此，Gerber文件输出完成。输出过程中产生3个`.cam`文件可直接关闭，不用保存.
 
-## Project Outputs for ***文件夹
+## 输出内容Project Outputs for *** 文件夹
 
 在工程目录下的Project Outputs for ***文件夹中的文件即为Gerber文件。将其重命名，打包成压缩包发给PCB生产厂商制作即可。
 
