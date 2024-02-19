@@ -30,7 +30,6 @@ Gerber（光绘）文件是一种符合EIA标准、用于驱动光绘机的文�
 
 <div align=center><img src="Altium Designer 24导出Gerber文件/20240104165955.png" width="400"></div>
 
-
 ## 2、输出NC Drill Files钻孔文件
 
 切换回PCB编辑界面，执行菜单栏中的【文件】→【制造输出】→【NC Drill Files】命令，进行过孔和安装孔的输出设置。
