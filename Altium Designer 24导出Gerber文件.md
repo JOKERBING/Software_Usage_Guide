@@ -36,7 +36,7 @@ Gerber（光绘）文件是一种符合EIA标准、用于驱动光绘机的文�
 
 <div align=center><img src="Altium Designer 24导出Gerber文件/20240104170042.png" width="1000"></div>
 
-在弹出的【NC Drill设置】对话框中，【单位】选择【英寸】,【格式】选择【2:4】，勾选【摒弃前导零】复选框，勾选【生成EIA二进制钻孔文件(.DRL)】复选框，单击【确定】按钮。
+在弹出的【NC Drill设置】对话框中，【单位】选择【英寸】,【格式】选择【2:5】，勾选【摒弃前导零】复选框，勾选【生成EIA二进制钻孔文件(.DRL)】复选框，单击【确定】按钮。
 
 <div align=center><img src="Altium Designer 24导出Gerber文件/20240104170112.png" width="800"></div>
 
